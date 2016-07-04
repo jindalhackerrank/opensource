@@ -1,6 +1,6 @@
 {
-  "name": "opensource",
-  "version": "1.0.0",
+  "name": "opensource-ashish",
+  "version": "1.1.0",
   "description": "Get random starwars names",
   "main": "src/index.js",
   "scripts": {
