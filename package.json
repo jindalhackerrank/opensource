@@ -1,0 +1,27 @@
+{
+  "name": "opensource",
+  "version": "1.0.0",
+  "description": "Get random starwars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jindalhackerrank/opensource.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Ashish Jindal <jindalhackerrank@gmail.com> (http://www.ashishjindal.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jindalhackerrank/opensource/issues"
+  },
+  "homepage": "https://github.com/jindalhackerrank/opensource#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
